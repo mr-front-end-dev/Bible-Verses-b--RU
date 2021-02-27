@@ -12,8 +12,8 @@
 }
 
 .section__button--underscore {
-  color: hsl(0, 0%, 100%);
-  background-color: hsl(0, 100%, 50%);
+  color: hsl(0, 0%, 0%);
+  background-color: hsl(0, 0%, 100%);
   border-style: none;
   font-size: 14px;
   padding: 8px;
